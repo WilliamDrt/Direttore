@@ -19,6 +19,5 @@ Learn how to:
 
 - Make Icon Packs
 
-- ```
-  [a relative link](How_to_make_a_theme.md)
-  ```
+- [a relative link](How_to_make_a_theme.md)
+  
