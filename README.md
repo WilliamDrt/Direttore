@@ -1,9 +1,7 @@
 # DrtFMngPreview
 Beta testing for DrtFMngPreview (This is a temporary name)
 
-```
 ![Alt text](/Images/Screenshot.png?raw=true "DrtFMng")
-```
 
 DrtFMng is a windows desktop file manager with the following key features:
 
