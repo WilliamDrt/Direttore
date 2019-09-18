@@ -13,11 +13,8 @@ DrtFMng is a windows desktop file manager with the following key features:
 
 Learn how to:
 
-- Participate in Beta-testing
+- [Participate in Beta-testing](How_to_participate_in_beta_testing.md)
 
-- Make Themes
+- [Make Themes](How_to_make_a_theme.md)
 
-- Make Icon Packs
-
-- [a relative link](How_to_make_a_theme.md)
-  
+- [Make Icon Packs](How_to_make_an_icon_pack.md)
