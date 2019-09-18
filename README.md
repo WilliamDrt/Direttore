@@ -1,7 +1,9 @@
 # DrtFMngPreview
 Beta testing for DrtFMngPreview (This is a temporary name)
 
-![https://github.com/WiliamDrt/DrtFMngPreview/blob/master/Images/Store%20Screenshot.png]()
+```
+![Screenshot](Images/Store Screenshot.png.png)
+```
 
 DrtFMng is a windows desktop file manager with the following key features:
 
