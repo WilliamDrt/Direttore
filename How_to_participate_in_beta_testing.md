@@ -26,7 +26,7 @@ After 12 to 24 hours* you will get an email confirming your participation. Get i
 
 ###### *Maybe sooner.
 
-
+You can check the [Privacy Policy](Privacy Policy.md)
 
 ## Now What ?
 
