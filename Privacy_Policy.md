@@ -20,7 +20,7 @@ Absolutely **NOT**
 
 When beta testing is over, all beta testers will receive an e-mail with a Windows Store promo code, for the released app. After that all e-mails addresses will be deleted.
 
-You can opt-out at any time. Just an e-mail with Subject line:
+You can opt-out at any time. Just send an e-mail with Subject line:
 
 ```
 Opt-out from Beta Testing
