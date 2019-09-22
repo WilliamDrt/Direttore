@@ -17,7 +17,7 @@ You will need the following, to participate.
   1. Subject: 
 
      ```
-     Participate in Beta Testing
+     Participate in Beta Testing MK1
      ```
 
      ###### I may automate this task, please use this exactly as it is written. Thank you.
@@ -30,5 +30,10 @@ After 12 to 24 hours* you will get an email confirming your participation. Get i
 
 ###### *Maybe sooner, depends on the automation.
 
+
+
 ## Now What ?
 
+Use the program, [Make Themes](How_to_make_a_theme.md), [Make Icon Packs](How_to_make_an_icon_pack.md), If you encounter a problem, or you have an idea start an [issue](https://github.com/WilliamDrt/DrtFMngPreview/issues).
+
+# Thank you  for your precious help. Cheers
