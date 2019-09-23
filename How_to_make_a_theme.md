@@ -47,7 +47,7 @@ I am hopping to resolve those issues, with your help, during this beta.
 | Buttons          | 22x22        |                                                              |
 | Buttons Overlays | 18x18        |                                                              |
 
-If you have any questions or/and ideas pleas start a new [issue](https://github.com/WilliamDrt/DrtFMngPreview/issues).
+If you have any questions or/and ideas please start a new [issue](https://github.com/WilliamDrt/DrtFMngPreview/issues).
 
 DrtFMngPreview with a (half done) white theme:
 
