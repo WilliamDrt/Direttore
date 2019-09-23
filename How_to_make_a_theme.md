@@ -42,8 +42,8 @@ I am hopping to resolve those issues, with your help, during this beta.
 | UI Element       | Logical Size | Comments                                                     |
 | ---------------- | ------------ | ------------------------------------------------------------ |
 | Scrollbar Button | 14x14        | You provide the Horizontal Left button. App will generate Right/Up/Down |
-| Scrollbar Tray   | 1x14         | You provide the Horizontal Tray. App will generate the Vertical |
-| Scrollbar Thumb  | 1x14         | You provide the Horizontal Thumb. App will generate the Vertical |
+| Scrollbar Tray   | 1x14         | Drawn at Width x 14 with "nearest neighbor" algorithm. You provide the Horizontal Tray. App will generate the Vertical |
+| Scrollbar Thumb  | 1x14         | Drawn at Width x 14 with "nearest neighbor" algorithm. You provide the Horizontal Thumb. App will generate the Vertical |
 | Buttons          | 22x22        |                                                              |
 | Buttons Overlays | 18x18        |                                                              |
 
