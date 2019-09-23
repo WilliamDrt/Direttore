@@ -29,11 +29,11 @@ Bitmap sizes: Theme is loaded in memory and remains there for entire app's lifet
 
 ### Logical Size & DPI
 
-Logical size is the size that would be used if DPI was 100%. I will not bother you with inner DPI metrics such as  100% = 96px, 125% = 120px, 150%= 144px etc. All you need to know is that, if your bitmaps are going to support all DPIs all the way up to DPI 400%, them you'll have to multiply logical size X 400% (size x4). 
+Logical size is the size that would be used if DPI was 100%. I will not bother you with inner DPI metrics such as  100% = 96px, 125% = 120px, 150%= 144px etc. All you need to know is that, if your bitmaps are going to support all DPIs all the way up to DPI 400%, then you'll have to multiply logical size X 400% (size x4). 
 
 For example logical size for the scrollbar button is 14x14. Supporting all the way up to 400% would be (14x4=56) 56x56. What happens if you choose a bitmap with size, let's say 40x40 ? Monitors with DPI 400% will show the button a little bit "soft". Nothing really visible in my opinion, but mathematically it's there.
 
-The opposite problem: Having a 56x56 scrollbar button display in a 100% monitor. If the button art has a lot of details, it can look a little bit "rough". Maybe some jagged edges or/and other problems. Simper art (basic shadows, contour, no textures) will not have a problem.
+The opposite problem: Having a 56x56 scrollbar button displayed in a 100% monitor. If the button art has a lot of details, it can look a little bit "rough". Maybe some jagged edges or/and other problems. Simper art (basic shadows, contour, no textures) will not have a problem.
 
 I am hopping to resolve those issues, with your help, during this beta.
 
@@ -43,26 +43,9 @@ I am hopping to resolve those issues, with your help, during this beta.
 | ---------------- | ------------ | ------------------------------------------------------------ |
 | Scrollbar Button | 14x14        | You provide the Horizontal Left button. App will generate Right/Up/Down |
 | Scrollbar Tray   | 1x14         | You provide the Horizontal Tray. App will generate the Vertical |
-| Scrollbar Thumb  | 1x14         | Same as above                                                |
-| Buttons          | 24x24        |                                                              |
-| Buttons Overlays | 20x20        |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
-|                  |              |                                                              |
+| Scrollbar Thumb  | 1x14         | You provide the Horizontal Thumb. App will generate the Vertical |
+| Buttons          | 22x22        |                                                              |
+| Buttons Overlays | 18x18        |                                                              |
+
+If you have any questions or/and ideas pleas start a new [issue](https://github.com/WilliamDrt/DrtFMngPreview/issues).
 
