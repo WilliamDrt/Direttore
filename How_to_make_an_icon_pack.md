@@ -89,6 +89,8 @@ Side note: If MS ever change those Indexes we'll have to follow.
 
 ```
 
+If you have any questions or/and ideas please start a new [issue](https://github.com/WilliamDrt/DrtFMngPreview/issues).
+
 A simple Icon Pack structure example image:
 
 ![Alt text](/Images/Icon_Pack_Example.png?raw=true "Icon Pack Example")
