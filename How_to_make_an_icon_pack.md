@@ -34,7 +34,7 @@ My First Icon Pack(folder)
 
 Let's go back to "**My First Icon Pack\\.mp3**" folder. Save another image named "**CutOff.png**" size should be 64x64. Cutoff image is for small icons and is optional, nevertheless  important, especially if your art has great detail. You can see example of cutoff icons in system's special folders like Downloads, where the full icon is a folder with an arrow pointing down, while the cutoff icon is just the arrow.
 
-Let's make another change. Rename "**.mp3**" folder to `.mp3 .mp4  Audio`. Now the image inside that folder will be used for mp3 & mp4. Use a single space to separate multiple extensions, and a double space for comments. Packager will ignore everything after a double space (in this example the word "Audio" has two spaces in front of it).
+Let's make another change. Rename "**.mp3**" folder to <pre> `.mp3 .mp4  Audio` </pre>. Now the image inside that folder will be used for mp3 & mp4. Use a single space to separate multiple extensions, and a double space for comments. Packager will ignore everything after a double space (in this example the word "Audio" has two spaces in front of it).
 
 ### Packager Rules
 
