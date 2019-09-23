@@ -25,7 +25,7 @@ It should look something like this:
 ```
 My First Icon Pack(folder)
 |-> .mp3(folder)
-	|->Normal.png`
+    |->Normal.png
 ```
 
 [Ctrl] + [I] to bring up the Icon Packs window. Click the 3 dots (...) button and navigate to your Icon Pack folder, for this example "My First Icon Pack". Click on "Make Icon Pack". A message box will inform you on success or not. If everything was ok a new file named "My First Icon Pack.drt-iconpack" should be inside your pack folder. Move this file to Desktop\YOUR-USERNAME\Documents\DrtFmngPreview\IconPacks as explained in Change Icon Pack above. Close Icon Packs window (if still open) and re open it. You should be able to see your new icon pack on the list. 
