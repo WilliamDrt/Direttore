@@ -33,7 +33,7 @@ Logical size is the size that would be used if DPI was 100%. I will not bother y
 
 For example logical size for the scrollbar button is 14x14. Supporting all the way up to 400% would be (14x4=56) 56x56. What happens if you choose a bitmap with size, let's say 40x40 ? Monitors with DPI 400% will show the button a little bit "soft". Nothing really visible in my opinion, but mathematically it's there.
 
-The opposite problem: Having a 56x56 scrollbar button displayed in a 100% monitor. If the button art has a lot of details, it can look a little bit "rough". Maybe some jagged edges or/and other problems. Simper art (basic shadows, contour, no textures) will not have a problem.
+The opposite problem: Having a 56x56 scrollbar button displayed in a 100% monitor. If the button art has a lot of details, it can look a little bit "rough". Maybe some jagged edges or/and other problems. Simpler art (basic shadows, contour, no textures) will not have a problem.
 
 I am hopping to resolve those issues, with your help, during this beta.
 
@@ -49,3 +49,6 @@ I am hopping to resolve those issues, with your help, during this beta.
 
 If you have any questions or/and ideas pleas start a new [issue](https://github.com/WilliamDrt/DrtFMngPreview/issues).
 
+DrtFMngPreview with a (half done) white theme:
+
+![Alt text](/Images/White-Theme.png?raw=true "White Theme")
