@@ -16,9 +16,9 @@ Desktop\YOUR-USERNAME\Documents\DrtFmngPreview\IconPacks
 
 ### Make New Icon Pack
 
-Make a new folder and name it with your Icon Pack name. For this example "My First Icon Pack".
+Make a new folder and name it with your Icon Pack name. For this example "**My First Icon Pack**".
 
-Inside that folder make a new folder and name it `".mp3"`. Inside `".mp3"` folder, save an image named `"Normal.png"`, size should be 256x256. We just made an icon pack with only one icon. (for .mp3 files)
+Inside that folder make a new folder and name it "**.mp3**". Inside "**.mp3**" folder, save an image named "**Normal.png**", size should be 256x256. We just made an icon pack with only one icon. (for .mp3 files)
 
 It should look something like this:
 
@@ -28,13 +28,13 @@ My First Icon Pack(folder)
 	|->Normal.png`
 ```
 
-[Ctrl] + [I] to bring up the Icon Packs window. Click the 3 dots (...) button and navigate to your Icon Pack folder, for this example `"My First Icon Pack"`. Click on "Make Icon Pack". A message box will inform you on success or not. If everything was ok a new file named `"My First Icon Pack.drt-iconpack"` should be inside your pack folder. Move this file to `Desktop\YOUR-USERNAME\Documents\DrtFmngPreview\IconPacks` as explained in Change Icon Pack above. Close Icon Packs window (if still open) and re open it. You should be able to see your new icon pack on the list. 
+[Ctrl] + [I] to bring up the Icon Packs window. Click the 3 dots (...) button and navigate to your Icon Pack folder, for this example "**My First Icon Pack**". Click on "Make Icon Pack". A message box will inform you on success or not. If everything was ok a new file named "**My First Icon Pack.drt-iconpack**" should be inside your pack folder. Move this file to **Desktop\YOUR-USERNAME\Documents\DrtFmngPreview\IconPacks** as explained in Change Icon Pack above. Close Icon Packs window (if still open) and re open it. You should be able to see your new icon pack on the list. 
 
 ### Expanding our simple "My First Icon Pack"
 
-Let's go back to `My First Icon Pack\.mp3` folder. Save another image named `"CutOff.png"` size should be 64x64. Cutoff image is for small icons and is optional, nevertheless  important, especially if your art has great detail. You can see example of cutoff icons in system's special folders like Downloads, where the full icon is a folder with an arrow pointing down, while the cutoff icon is just the arrow.
+Let's go back to "**My First Icon Pack/.mp3**" folder. Save another image named "**CutOff.png**" size should be 64x64. Cutoff image is for small icons and is optional, nevertheless  important, especially if your art has great detail. You can see example of cutoff icons in system's special folders like Downloads, where the full icon is a folder with an arrow pointing down, while the cutoff icon is just the arrow.
 
-Let's make another change. Rename `".mp3"` folder to `".mp3 .mp4  Audio"`. Now the image inside that folder will be used for mp3 & mp4. Use a single space to separate multiple extensions, and a double space for comments. Packager will ignore everything after a double space (in this example the word "Audio" has two spaces in front of it).
+Let's make another change. Rename "**.mp3**" folder to "**.mp3 .mp4  Audio**". Now the image inside that folder will be used for mp3 & mp4. Use a single space to separate multiple extensions, and a double space for comments. Packager will ignore everything after a double space (in this example the word "Audio" has two spaces in front of it).
 
 ### Packager Rules
 
