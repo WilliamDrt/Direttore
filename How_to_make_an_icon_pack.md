@@ -16,6 +16,8 @@ Desktop\YOUR-USERNAME\Documents\DrtFmngPreview\IconPacks
 
 ### Make New Icon Pack
 
+Please **use your own art.** Do **not** just google and download others people's stuff.
+
 Make a new folder and name it with your Icon Pack name. For this example "My First Icon Pack".
 
 Inside that folder make a new folder and name it ".mp3". Inside ".mp3" folder, save an image named "Normal.png", size should be 256x256. We just made an icon pack with only one icon. (for .mp3 files)
