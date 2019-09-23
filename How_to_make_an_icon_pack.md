@@ -87,3 +87,6 @@ Side note: If MS ever change those Indexes we'll have to follow.
 
 ```
 
+A simple Icon Pack structure example image:
+
+![Alt text](/Images/Icon_Pack_Example.png?raw=true "Icon Pack Example")
