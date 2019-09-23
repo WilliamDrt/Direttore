@@ -42,8 +42,8 @@ Let's make another change. Rename ".mp3" folder to ".mp3 .mp4&nbsp; Audio" . Now
 2. If no extension are found, the folder will be skipped.
 3. Multiple extensions are seperated with a single space. eg: ".jpg .jpeg"
 4. Packager ignores everything after a double space. eg: ".jpg .jpeg &nbsp; ignored"
-5. A file named `"Normal.png"` must be inside the folder, or the folder will be ignored. Size 256x256
-6. An optional  file named `"CutOff.png"` will become the small icon, for that extension. Size 64x64
+5. A file named "Normal.png" must be inside the folder, or the folder will be ignored. Size 256x256
+6. An optional  file named "CutOff.png" will become the small icon, for that extension. Size 64x64
 7. Everything else inside the folder is ignored.
 8. If the packager skip one or more folders for whatever reason, it will generate a log file along with the icon pack
 
