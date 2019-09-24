@@ -16,11 +16,9 @@ Desktop\YOUR-USERNAME\Documents\DrtFmngPreview\IconPacks
 
 ### Make New Icon Pack
 
-Please **use your own art.** Do **not** just google and download others people's stuff.
-
 Make a new folder and name it with your Icon Pack name. For this example "My First Icon Pack".
 
-Inside that folder make a new folder and name it ".mp3". Inside ".mp3" folder, save an image named "Normal.png", size should be 256x256. We just made an icon pack with only one icon. (for .mp3 files)
+Inside this folder make a new folder and name it ".mp3". Inside ".mp3" folder, save an image named "Normal.png", size should be 256x256. We just made an icon pack with only one icon. (for .mp3 files)
 
 It should look something like this:
 
@@ -30,7 +28,9 @@ My First Icon Pack(folder)
     |->Normal.png
 ```
 
-[Ctrl] + [I] to bring up the Icon Packs window. Click the 3 dots (...) button and navigate to your Icon Pack folder, for this example "My First Icon Pack". Click on "Make Icon Pack". A message box will inform you on success or not. If everything was ok a new file named "My First Icon Pack.drt-iconpack" should be inside your pack folder. Move this file to Desktop\YOUR-USERNAME\Documents\DrtFmngPreview\IconPacks as explained in Change Icon Pack above. Close Icon Packs window (if still open) and re open it. You should be able to see your new icon pack on the list. 
+[Ctrl] + [I] to bring up the Icon Packs window. Click the 3 dots (...) button and navigate to your Icon Pack folder, for this example "My First Icon Pack". Click on "Make Icon Pack". A message box will inform you on success or not. 
+
+If everything is ok, a new file named "My First Icon Pack.drt-iconpack" should be inside your pack folder. Move this file to Desktop\YOUR-USERNAME\Documents\DrtFmngPreview\IconPacks as explained in Change Icon Pack above. Close Icon Packs window (if still open) and re open it. You should be able to see your new icon pack on the list. 
 
 ### Expanding our simple "My First Icon Pack"
 
