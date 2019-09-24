@@ -34,9 +34,9 @@ If everything is ok, a new file named "My First Icon Pack.drt-iconpack" should b
 
 ### Expanding our simple "My First Icon Pack"
 
-Let's go back to "My First Icon Pack\\.mp3" folder. Save another image named "CutOff.png" size should be 64x64. Cutoff image is for small icons and is optional, nevertheless  important, especially if your art has great detail. You can see example of cutoff icons in system's special folders like Downloads, where the full icon is a folder with an arrow pointing down, while the cutoff icon is just the arrow.
+Let's go back to "My First Icon Pack\\.mp3" folder. Save another image named "CutOff.png" size should be 64x64. Cutoff image is for small icons and is optional, however important, especially if your art has great detail. You can see example of cutoff icons in system's special folders like Downloads, where the full icon is a folder with an arrow pointing down, while the cutoff icon is just the arrow.
 
-Let's make another change. Rename ".mp3" folder to ".mp3 .mp4&nbsp; Audio" . Now the image inside that folder will be used for mp3 & mp4. Use a single space to separate multiple extensions, and a double space for comments. Packager will ignore everything after a double space (in this example the word "Audio" has two spaces in front of it).
+Let's make another change. Rename ".mp3" folder to ".mp3 .mp4&nbsp; Audio" . Now the image inside this folder will be used for mp3 & mp4. Use a single space to separate multiple extensions, and a double space for comments. Packager will ignore everything after a double space (in this example the word "Audio" has two spaces in front of it).
 
 ### Packager Rules
 
@@ -47,11 +47,11 @@ Let's make another change. Rename ".mp3" folder to ".mp3 .mp4&nbsp; Audio" . Now
 5. A file named "Normal.png" must be inside the folder, or the folder will be ignored. Size 256x256
 6. An optional  file named "CutOff.png" will become the small icon, for that extension. Size 64x64
 7. Everything else inside the folder is ignored.
-8. If the packager skip one or more folders for whatever reason, it will generate a log file along with the icon pack
+8. If the packager skips one or more folders for whatever reason, it will generate a log file along with the icon pack
 
 ### Folders & Special Folders
 
-For folders instead of extensions we use an icon index. For example the icon index for folders is 3. All the above rules still apply, so you should name a folder ".3" or ".3 &nbsp; Folder" for clarity (watch the double space before word "Folder")
+For folders instead of extensions we use an icon index. For example the icon index for folders is 3. All the above rules still apply, so you should name the folder ".3".
 
 Attention: If you include an icon for folders (`".3"`), folder thumbnails will not be shown.
 
