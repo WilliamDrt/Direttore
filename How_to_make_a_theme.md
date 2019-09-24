@@ -33,7 +33,7 @@ For example logical size for the scrollbar button is 14x14. Supporting all the w
 
 The opposite problem: Having a 56x56 scrollbar button displayed in a 100% monitor. If the button art has a lot of details, it can look a little bit "rough". Maybe some jagged edges or/and other problems. Simpler art (basic shadows, contour, no textures) will not have a problem.
 
-I am hopping to resolve those issues, with your help, during this beta.
+I hope to resolve these issues, with your help, during this beta.
 
 ### UI Elements & Logical Size Table
 
