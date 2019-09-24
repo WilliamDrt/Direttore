@@ -1,4 +1,4 @@
-# Make a theme
+# Themes
 
 ### Load Themes
 
@@ -12,7 +12,7 @@
 
 Editor starts with all fields blank,. Click "Pull from DrtfMngrPreview" to load app's current Theme. Change one of the fields (maybe one of the colors?) and click "Push to DrtFMngPreview". DrtFMngPreview will refresh itself and you should be able to see the changes. You can also load a Theme from disk. Once you're happy with all changes, write a title for it, "General/Title" and save it to disk. The final file should be something like: "yourtitle.drt-theme".
 
-### Categories - Colors - Bitmaps - &stuff
+### Categories - Colors - Bitmaps - & stuff
 
 There are 10 categories in theme editor, I believe they're self explained, click on a field to read a little hint/help text at the bottom of the form.
 
@@ -25,11 +25,9 @@ There are 4 kind of fields:
 
 It's better not to omit anything.
 
-Bitmap sizes: Theme is loaded in memory and remains there for entire app's lifetime. Large bitmaps can blow up theme's size, so we must be careful. A logical size (on disk) for a theme should be somewhere in the neighborhood of 100KB. DrtFMngPreview's standard dark theme is (currently) about 28KB*. `(but that doesn't includes all DPI options, more on that later)`
-
 ### Logical Size & DPI
 
-Logical size is the size that would be used if DPI was 100%. I will not bother you with inner DPI metrics such as  100% = 96px, 125% = 120px, 150%= 144px etc. All you need to know is that, if your bitmaps are going to support all DPIs all the way up to DPI 400%, then you'll have to multiply logical size X 400% (size x4). 
+Logical size is the size that would be used if DPI was 100%. If your bitmaps are going to support all DPIs all the way up to DPI 400%, then you'll have to multiply logical size X 400% (size x4). 
 
 For example logical size for the scrollbar button is 14x14. Supporting all the way up to 400% would be (14x4=56) 56x56. What happens if you choose a bitmap with size, let's say 40x40 ? Monitors with DPI 400% will show the button a little bit "soft". Nothing really visible in my opinion, but mathematically it's there.
 
