@@ -49,4 +49,4 @@ If you have any questions or/and ideas please start a new [issue](https://github
 
 DrtFMngPreview with a (half done) white theme:
 
-<img src="/Images/White-Theme.png?raw=true" alt="Alt text" title="White Theme"  />
+![logo](\Images\White-Theme.png)
