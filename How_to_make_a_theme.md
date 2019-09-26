@@ -49,4 +49,8 @@ If you have any questions or/and ideas please start a new [issue](https://github
 
 DrtFMngPreview with a (half done) white theme:
 
+<<<<<<< HEAD
 ![logo](\Images\White-Theme.png)
+=======
+![Alt text](/Images/White-Theme.png?raw=true "White Theme")
+>>>>>>> parent of 57f00b4... Update How_to_make_a_theme.md
