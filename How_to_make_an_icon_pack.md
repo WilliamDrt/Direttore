@@ -67,7 +67,8 @@ Side note: If MS ever change those Indexes we'll have to follow.
 .109  This PC
 .25  Network
 .27  Control Panel
-.53  Recycle Bin
+.54  Recycle Bin full
+.55  Recycle Bin empty
 .198  3D Objects
 .183  Desktop
 .112  Documents
