@@ -1,9 +1,9 @@
-# DrtFMngPreview
-Beta testing for DrtFMngPreview (This is a temporary name)
+# Direttore
+Beta testing for Direttore File Manager Preview (DrtFMngPreview). [Project Site](https://www.yellow-pointers-software.com/home)
 
 ![Alt text](/Images/Screenshot.png?raw=true "DrtFMng")
 
-DrtFMng is a windows desktop file manager with the following key features:
+Direttoreis a windows desktop file manager with the following key features:
 
 - Multi Column View. Thumbnails in details (last) column, up to 768x768.
 - Thumbnails View. Thumbnails up to 256x256.
@@ -13,11 +13,11 @@ DrtFMng is a windows desktop file manager with the following key features:
 
 Learn how to:
 
-- [Participate in Beta-testing](How_to_participate_in_beta_testing.md)
+- [Participate in Beta-testing](https://www.yellow-pointers-software.com/beta-testing)
 
-- [Make Themes](How_to_make_a_theme.md)
+- [Make Themes](https://www.yellow-pointers-software.com/themes)
 
-- [Make Icon Packs](How_to_make_an_icon_pack.md)
+- [Make Icon Packs](https://www.yellow-pointers-software.com/icon-packs)
 
 More Images:
 
