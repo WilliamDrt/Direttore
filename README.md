@@ -1,5 +1,5 @@
 # Direttore
-Direttore File Manager . [Project Site](https://www.yellow-pointers-software.com/home)
+Direttore File Manager. [Project Site](https://www.yellow-pointers-software.com/home)
 
 ![Alt text](/Images/Screenshot.png?raw=true "DrtFMng")
 
@@ -10,6 +10,8 @@ Direttoreis a windows desktop file manager with the following key features:
 - Details View. All Windows property system is supported.
 - Themable. Theme Editor is built in.
 - Supports Icon Packs for files, folders, special folders. Icon Packager is built in.
+- Asynchronous File Operations.
+- Long Path support. 
 
 Learn how to:
 
