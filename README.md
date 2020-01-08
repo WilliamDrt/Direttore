@@ -1,5 +1,5 @@
 # Direttore
-Beta testing for Direttore File Manager Preview (DrtFMngPreview). [Project Site](https://www.yellow-pointers-software.com/home)
+Direttore File Manager . [Project Site](https://www.yellow-pointers-software.com/home)
 
 ![Alt text](/Images/Screenshot.png?raw=true "DrtFMng")
 
@@ -12,8 +12,6 @@ Direttoreis a windows desktop file manager with the following key features:
 - Supports Icon Packs for files, folders, special folders. Icon Packager is built in.
 
 Learn how to:
-
-- [Participate in Beta-testing](https://www.yellow-pointers-software.com/beta-testing)
 
 - [Make Themes](https://www.yellow-pointers-software.com/themes)
 
