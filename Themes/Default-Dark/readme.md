@@ -1,4 +1,4 @@
 # Direttore
-The default theme for Direttore
+Direttore's  default theme 
 
-![Alt text](DarkR.png?raw=true "DrtFMng")
+![Alt text](Default-Dark.png?raw=true "DrtFMng")
