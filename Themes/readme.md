@@ -1,7 +1,7 @@
 # Direttore
 Themes for Direttore
 
-[DarkR](DarkR)![Alt text](DarkR/DarkR.png?raw=true "DrtFMng")
+[DarkR](Download/DarkR.drt-theme)![Alt text](DarkR/DarkR.png?raw=true "DrtFMng")
 
 
 
