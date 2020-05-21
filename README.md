@@ -1,9 +1,9 @@
-# Direttore
-Direttore File Manager. [Project Site](https://www.yellow-pointers-software.com/home)
+# Direttore File Manager
+[Direttore is a Windows 10 desktop file manager with Multi Column(Miller columns) | Thumbnails | Details views. ](https://www.yellow-pointers-software.com/home)
 
-![Alt text](/Images/Screenshot.png?raw=true "DrtFMng")
+![Alt text](Images/Capture7.png?raw=true "DrtFMng")
 
-Direttoreis a windows desktop file manager with the following key features:
+Direttore is a windows desktop file manager with the following key features:
 
 - Multi Column View. Thumbnails in details (last) column, up to 768x768.
 - Thumbnails View. Thumbnails up to 256x256.
@@ -21,6 +21,6 @@ Learn how to:
 
 More Images:
 
-![Alt text](/Images/Thumbs.png?raw=true "DrtFMng-Thumbs")
-![Alt text](/Images/Details.png?raw=true "DrtFMng-Details")
-![Alt text](/Images/OneDrive.png?raw=true "DrtFMng-OneDrive")
+![Alt text](Images/Thumbs.png?raw=true "DrtFMng-Thumbs")
+![Alt text](Images/Details.png?raw=true "DrtFMng-Details")
+![Alt text](Images/OneDrive.png?raw=true "DrtFMng-OneDrive")
